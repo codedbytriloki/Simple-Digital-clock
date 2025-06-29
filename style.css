@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background:rgb(190, 190, 190);
+}
+.container{
+  background: rgb(76, 76, 253);
+  color: aliceblue;
+  padding: 40px 50px;
+  text-align: center;
+  box-shadow: 2px 5px 5px rgba(0,0,0,0.2);
+  border-radius: 4px;
+}
+p{
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: rgb(2, 2, 83);
+}
+h1{
+  line-height:10px;
+  font-size: 40px;
+  margin: 8px;
+}
